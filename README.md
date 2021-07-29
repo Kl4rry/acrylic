@@ -1,2 +1,2 @@
 # acrylic
-Makes a raw window handle acrylic
+Makes a window acrylic
